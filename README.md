@@ -1,6 +1,16 @@
 # pragmatic-coding
-Just another coding/style standards/guide on the web
+I'm just another coding/style standards/guide on the web
 
+## Features
+
+If I were a coding styleguide in 2015, how would I look like?
+
+Here are some things that I indeed could be:
+
+ * No non-sense guide, no time for bikeshedding;
+ * Automated, I'll check your source code;
+ * Playable (I'm a wishlist right now, I accept anything)
+ 
 ## References
 
  * https://github.com/mdo/code-guide
